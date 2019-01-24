@@ -1,6 +1,6 @@
-## Welcome to my site
+## Welcome to my GitHub site
 
-### Support or Contact
+### Contact
 
 Visit my profile on Keybase: [Keybase - beaconfield](https://keybase.io/beaconfield)
 
